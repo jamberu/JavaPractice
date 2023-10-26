@@ -7,4 +7,4 @@ A repository for me to compile all my Java practices
 
 ### [Tic Tac Toe](TicTacToe.java) <sub>Took interest | 10-25-2023</sup>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A simple program that requires 2 users to play a game of Tic Tac Toe. Starting player is randomized.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A simple program that requires 2 users to play a game of Tic Tac Toe. Starting player is randomized. Has bout feature (best of 3, 5, ...). Referenced GeeksforGeeks' TicTacToe tutorial and added my twists.
