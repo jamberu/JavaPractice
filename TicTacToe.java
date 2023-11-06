@@ -82,7 +82,7 @@ class Board {
     }
 }
 
-public class TTT {
+public class TicTacToe {
     public static void main (String[] args) {
         Scanner entry = new Scanner(System.in);
         int xScore = 0;
